@@ -1,0 +1,14 @@
+{
+  "name": "hello-android",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "author": "MollyLi",
+  "license": "ISC",
+  "dependencies": {
+    "react-native": "^0.22.0"
+  }
+}
